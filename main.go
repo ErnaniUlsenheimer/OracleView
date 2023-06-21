@@ -20,7 +20,7 @@ import (
 	// Required for debugging
 	// _ "net/http/pprof"
 
-	"github.com/iamseth/oracledb_exporter/collector"
+	"github.com/ernaniulsenheimer/oracleview/collector"
 )
 
 var (
